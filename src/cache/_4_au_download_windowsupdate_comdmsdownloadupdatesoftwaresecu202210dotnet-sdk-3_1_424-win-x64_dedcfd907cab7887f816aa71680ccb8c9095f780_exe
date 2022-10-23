@@ -1,0 +1,19 @@
+HTTP/1.1 206 Partial Content
+Cache-Control: public,max-age=172800
+Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Content-Range: bytes 0-1/135887440
+X-LLID: 80eb8135d03b14c00a666fb1ef271cd6
+Age: 5920
+Date: Wed, 12 Oct 2022 10:39:29 GMT
+Last-Modified: Mon, 03 Oct 2022 23:04:58 GMT
+Expires: Fri, 14 Oct 2022 09:00:49 GMT
+Content-Length: 2
+Connection: keep-alive
+X-CID: 4
+X-CCC: za
+
+MZHTTP/1.0 400 Bad Request
+Server: EdgePrism/5.0.4.1

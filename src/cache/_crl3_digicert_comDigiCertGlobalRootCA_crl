@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 1038
+Cache-Control: max-age=86400
+Content-Type: application/pkix-crl
+Date: Wed, 19 Oct 2022 21:38:09 GMT
+Etag: "279525133"
+Expires: Thu, 20 Oct 2022 21:38:09 GMT
+Last-Modified: Thu, 13 Oct 2022 21:15:05 GMT
+Server: ECS (lhb/63B9)
+X-Cache: HIT
+Content-Length: 779
+
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Wed, 19 Oct 2022 21:38:09 GMT
+Server: ECSF (lhb/635C)
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>400 - Bad Request</title>
+	</head>
+	<body>
+		<h1>400 - Bad Request</h1>
+	</body>
+</html>

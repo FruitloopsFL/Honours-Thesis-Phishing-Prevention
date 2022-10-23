@@ -1,0 +1,7 @@
+numpy==1.16.1
+pandas==0.24.1
+matplotlib==2.0.2
+tldextract==2.2.0
+beautifulsoup4==4.7.1
+pyenchant==2.0.0
+scikit_learn==0.20.2

@@ -1,0 +1,13 @@
+HTTP/1.1 304 Not Modified
+Server: nginx
+Date: Mon, 10 Oct 2022 12:44:04 GMT
+Connection: keep-alive
+Expires: Sun, 26 Feb 2023 16:57:58 GMT
+Cache-Control: max-age=86400,public,no-transform,must-revalidate
+ETag: "54ec536808335d590c9703cfb3a51663df241a48"
+Last-Modified: Thu, 03 Mar 2022 16:57:59 GMT
+X-Proxy-Cache: HIT
+
+HTTP/1.1 400 Bad Request
+Server: nginx/1.18.0 (Ubuntu)
+Date: Mon, 10 Oct 2022 12:44:05 GMT

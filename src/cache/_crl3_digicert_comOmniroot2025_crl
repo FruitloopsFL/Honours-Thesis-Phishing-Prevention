@@ -1,0 +1,14 @@
+HTTP/1.1 304 Not Modified
+Accept-Ranges: bytes
+Age: 1207
+Cache-Control: max-age=86400
+Date: Mon, 10 Oct 2022 12:43:43 GMT
+Etag: "2095480689"
+Expires: Tue, 11 Oct 2022 12:43:43 GMT
+Last-Modified: Thu, 06 Oct 2022 21:15:22 GMT
+Server: ECS (lhb/63D8)
+X-Cache: HIT
+
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Content-Length: 349

@@ -1,0 +1,19 @@
+HTTP/1.1 206 Partial Content
+Date: Tue, 11 Oct 2022 17:00:13 GMT
+Content-Type: application/octet-stream
+Content-Length: 2
+Connection: keep-alive
+Cache-Control: public, max-age=172800
+ETag: "0e457bd7cd7d81:0"
+Expires: Thu, 13 Oct 2022 17:00:19 GMT
+Last-Modified: Mon, 03 Oct 2022 23:06:16 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-CID: 3
+X-CCC: ZA
+MSREGION: EMEA
+Age: 63555
+Content-Range: bytes 0-1/49048488
+
+MZHTTP/1.1 400 Bad Request
+Server: nginx

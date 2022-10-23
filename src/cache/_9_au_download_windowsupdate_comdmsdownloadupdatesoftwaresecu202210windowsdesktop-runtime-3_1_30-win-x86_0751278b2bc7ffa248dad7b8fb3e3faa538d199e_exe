@@ -1,0 +1,15 @@
+HTTP/1.1 206 Partial Content
+Date: Wed, 12 Oct 2022 10:39:41 GMT
+Connection: Keep-Alive
+Cache-Control: public, max-age=172800
+Content-Length: 2
+Content-Range: bytes 0-1/49048488
+Content-Type: application/octet-stream
+Last-Modified: Mon, 03 Oct 2022 23:06:16 GMT
+Accept-Ranges: bytes
+ETag: "0e457bd7cd7d81:0"
+X-HW: 1665571181.dop007.lo4.t,1665571181.cds001.lo4.c
+X-CCC: GB
+X-CID: 9
+
+MZ

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+accept-ranges: bytes
+content-disposition: attachment
+content-security-policy: default-src 'none'
+server: Google-Edge-Cache
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0
+date: Mon, 10 Oct 2022 12:44:37 GMT
+last-modified: Mon, 10 Oct 2022 12:43:57 GMT
+etag: "fb0c4d"
+content-type: application/octet-stream
+content-length: 24306
+age: 17
+x-request-id: 8322e480-185d-4b71-9b30-b92027dccb06
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+cache-control: public,max-age=86400
+coprocessor-response: download-server
+
+HTTP/1.1 400 Bad Request
+content-length: 11
+content-type: text/plain
